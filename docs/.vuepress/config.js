@@ -23,8 +23,7 @@ module.exports = {
       '/pages/guide/':[
         '',
         'first',
-        'second',
-        'three'
+        'second'
       ]
     }
   },

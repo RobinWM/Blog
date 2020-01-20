@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: 进入 →
-actionLink: /pages/guide/index.md
+actionLink: /pages/
 heroText: null
 tagline: 个人博客
 heroImage: /icon.png
